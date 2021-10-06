@@ -1,1 +1,12 @@
-# SoftEngin
+1212 Kumar HR 50000
+1201 Arun Marketding 45000
+1432 Elizabeth HR 67000
+1224 Eric Development 57000
+1213 Carol Development 59000
+1269 Anne Finance 48000
+1113 David Testing 49000
+1085 Smith Marketing 45000
+1198 Eli Development 23000
+1589 Joe Testing 54000
+1290 Mira Marketing 34000
+1267 Alice Finance 45000
